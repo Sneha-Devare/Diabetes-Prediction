@@ -62,6 +62,7 @@ Scikit-learn: For implementing machine learning algorithms and model evaluation.
 
 Matplotlib/Seaborn: For visualizing data and model performance.
 
-Results
+Results:
+
 The model is trained to predict diabetes with a high level of accuracy, providing valuable insights for early diabetes detection.
 
